@@ -1,8 +1,10 @@
 /cmake-build-release/
 /cmake-build-debug/
 /build/
+/install
 .idea
 /thirdparty/tiny-viewer-build/
+/thirdparty/tiny-viewer-install/
 
 *.pdf
 *.dtmp
